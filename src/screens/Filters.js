@@ -107,17 +107,19 @@ const Filters = ({ navigation }) => {
     setSelectedDateEntrada(date);
     const currentDate = new Date();
     const dateEnterObj = new Date(date);
+    currentDate.setHours(0, 0, 0, 0);
+    dateEnterObj.setHours(0, 0, 0, 0);
 
-    if (dateEnterObj.getDate() < currentDate.getDate()) {
+    if (dateEnterObj < currentDate) {
       setErrorMessageDateEntry({
         msgDate:
-          t('Error: La fecha de entrada no puede ser anterior a la fecha actual.')
+          'Error: La fecha de entrada no puede ser anterior a la fecha actual.',
       });
       setDateEntryError(true);
     } else if (dateEnterObj.getTime() >= selectedDateSalida.getTime()) {
       setErrorMessageDateEntry({
         msgDate:
-          t('Error: La fecha de entrada no puede ser igual o mayor que la fecha de salida.'),
+          'Error: La fecha de entrada no puede ser igual o mayor que la fecha de salida.',
       });
       setDateEntryError(true);
     } else {
@@ -134,17 +136,19 @@ const Filters = ({ navigation }) => {
     setSelectedDateSalida(date);
     const currentDate = new Date();
     const dateExitObj = new Date(date);
+    currentDate.setHours(0, 0, 0, 0);
+    dateExitObj.setHours(0, 0, 0, 0);
 
-    if (dateExitObj.getDate() < currentDate.getDate()) {
+    if (dateExitObj < currentDate) {
       setErrorMessageDateExit({
         msgDate:
-          t('Error: La fecha de salida no puede ser anterior a la fecha actual.'),
+          'Error: La fecha de salida no puede ser anterior a la fecha actual.',
       });
       setDateExitError(true);
     } else if (dateExitObj.getTime() <= selectedDateEntrada.getTime()) {
       setErrorMessageDateExit({
         msgDate:
-          t('Error: La fecha de salida debe ser posterior a la fecha de entrada.'),
+          'Error: La fecha de salida debe ser posterior a la fecha de entrada.',
       });
       setDateExitError(true);
     } else {
