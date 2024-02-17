@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "65ce1fa6c49887589b5cbc23"
+  },
+  "idUser": 31,
+  "name": "A",
+  "surname": "A",
+  "password": "1234",
+  "email": "root@gmail.com",
+  "_class": "estrellas.model.Users"
+},
+{
+  "_id": {
+    "$oid": "65ce280c1d98de0a392623bf"
+  },
+  "idUser": 32,
+  "name": "Pepe",
+  "surname": "pepe",
+  "password": "Lolitass12#",
+  "email": "avchaparro04@gmail.com",
+  "_class": "estrellas.model.Users"
+},
+{
+  "_id": {
+    "$oid": "65cf78b49029e149191d2072"
+  },
+  "idUser": 33,
+  "name": "Jacob",
+  "surname": "Curr",
+  "password": "5970d3b38ad95aa839d0d6b2021acf6b",
+  "email": "jacarbon.curras@gmail.com",
+  "_class": "estrellas.model.Users"
+}]

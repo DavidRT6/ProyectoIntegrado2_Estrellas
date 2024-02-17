@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "65ce30cb29a53a18a4bef6b4"
+  },
+  "idBook": 1,
+  "entranceDate": {
+    "$date": "2024-02-15T15:38:32.237Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-16T15:38:32.237Z"
+  },
+  "idUser": 31,
+  "idRoom": 1,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65ce397c04457e71a5223fab"
+  },
+  "idBook": 2,
+  "entranceDate": {
+    "$date": "2024-02-15T16:12:41.762Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-16T16:12:41.762Z"
+  },
+  "idUser": 31,
+  "idRoom": 50,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65ce3f51db10fe254f4c1e1c"
+  },
+  "idBook": 3,
+  "entranceDate": {
+    "$date": "2024-02-15T16:12:41.762Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-16T16:12:41.762Z"
+  },
+  "idUser": 31,
+  "idRoom": 2,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65cf79739029e149191d2073"
+  },
+  "idBook": 3,
+  "entranceDate": {
+    "$date": "2024-02-16T15:02:46.428Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-29T15:02:00.000Z"
+  },
+  "idUser": 33,
+  "idRoom": 12,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65cf7a0c9029e149191d2074"
+  },
+  "idBook": 3,
+  "entranceDate": {
+    "$date": "2024-02-16T15:02:46.428Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-29T15:02:00.000Z"
+  },
+  "idUser": 33,
+  "idRoom": 18,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65cf7ac09029e149191d2075"
+  },
+  "idBook": 3,
+  "entranceDate": {
+    "$date": "2024-02-16T15:02:46.428Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-29T15:02:00.000Z"
+  },
+  "idUser": 33,
+  "idRoom": 41,
+  "_class": "estrellas.model.Bookings"
+},
+{
+  "_id": {
+    "$oid": "65cf8d689029e149191d2076"
+  },
+  "idBook": 3,
+  "entranceDate": {
+    "$date": "2024-02-16T16:24:19.208Z"
+  },
+  "exitDate": {
+    "$date": "2024-02-17T16:24:19.208Z"
+  },
+  "idUser": 33,
+  "idRoom": 6,
+  "_class": "estrellas.model.Bookings"
+}]
