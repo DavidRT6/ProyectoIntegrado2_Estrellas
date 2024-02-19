@@ -17,7 +17,7 @@ E-mail: darota@floridauniversitaria.es
 <br> <br>
 <img src="https://github.com/rsanzfloridauni/DAM2324_Estrellas/assets/114494834/64ded058-8a80-426e-a068-db54e0beeddf" alt="Imagen3" width="140" height="140">
 <br>
-**Brian Salguero Estrella**
+**Brian Aaron Salguero Estrella**
 <br>
 E-mail: brsaes@floridauniversitaria.es 
 <br> <br>
