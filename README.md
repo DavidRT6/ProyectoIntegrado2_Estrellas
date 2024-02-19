@@ -38,7 +38,7 @@ La nostra aplicació anomenada **"Estrellas"** s'encarrega de gestionar les rese
 <br> <br>
 A més, permet als usuaris buscar, explorar i reservar habitacions de manera ràpida i segura. Amb informació detallada sobre cada habitació incloent fotos perquè els usuaris puguen prendre les millors decisions per a assegurar una estada agradable.
 <br> <br>
-Estreles proporciona una interfície intuïtiva i fàcil d'usar que va dirigida a totes aquelles persones que els agradaria prendre's unes vacances i tindre una experiència inoblidable. Ja sigues un apassionat dels viatges o simplement estigues planejant una escapada relaxant amb els teus sers estimats, l'objectiu de la nostra aplicació de gestió de reserves d'habitacions és facilitar la teua experiència d'hostalatge. No importa si busques luxe, comoditat o simplement un lloc acollidor per a descansar, la nostra aplicació t'ofereix diverses opcions perquè trobes l'allotjament perfecte. Descarrega-la ara i descobreix el futur de la gestió d'allotjaments i reserves!
+**Estrellas** proporciona una interfície intuïtiva i fàcil d'usar que va dirigida a totes aquelles persones que els agradaria prendre's unes vacances i tindre una experiència inoblidable. Ja sigues un apassionat dels viatges o simplement estigues planejant una escapada relaxant amb els teus sers estimats, l'objectiu de la nostra aplicació de gestió de reserves d'habitacions és facilitar la teua experiència d'hostalatge. No importa si busques luxe, comoditat o simplement un lloc acollidor per a descansar, la nostra aplicació t'ofereix diverses opcions perquè trobes l'allotjament perfecte. Descarrega-la ara i descobreix el futur de la gestió d'allotjaments i reserves!
 
 # DESCÀRREGA
 
